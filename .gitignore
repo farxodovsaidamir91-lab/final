@@ -1,0 +1,12 @@
+
+*.py[cod]
+*$py.class
+__pycache__/
+media/
+staticfiles/
+venv/
+env/
+.env
+.vscode/
+.idea/
+
